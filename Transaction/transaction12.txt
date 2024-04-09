@@ -1,0 +1,12 @@
+CHECK j89k  9/10/2020  219.76  4105  Austin Energy
+DEPOSIT p8rQ  9/1/2020  549.00
+DEBIT 0ro3  9/4/2020  83.45  HEB
+DEBIT 2edr  9/12/2020 43.59  Diamond Shamrock Station
+CHECK o3ud  8/20/2020 123.89  4120  Direct TV Inc.
+CHECK pe94  9/1/2020  55.00 4233  ATT Uverse
+DEBIT nbei  9/3/2020  9.99 The Card Shop 
+DEPOSIT cxi3  9/15/2020 512.33
+DEPOSIT pe32  9/23/2020 100.00
+CHECK eie8  9/30/2020 12.37  4108 Walgreens Pharmacy Inc.
+DEBIT sd34  9/20/2020 14.88 HEB AT 306 and I35
+CHECK 43uy  8/25/2020 87.76 4903 Guadalupe valley electric coop

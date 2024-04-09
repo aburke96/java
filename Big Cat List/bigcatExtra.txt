@@ -1,0 +1,42 @@
+princess leia
+TIGER 100
+snow whITE
+LION 100
+tinker bell
+HOUSE_CAT 25
+happy cat lady
+BOBCAT 78
+sammy the cat man
+TIGER 206
+susie
+LION 100
+roger dodger
+HOUSE_CAT 5
+Texas state cat
+BOBCAT 67
+princess leia
+TIGER 100
+snow whITE
+LION 100
+tinker bell
+HOUSE_CAT 25
+Abby Adam
+LION 250
+JOe Gummy
+HOUSE_CAT 14
+Biggy Big	
+TIGER 138
+Zink
+CHEETAH 123
+DODGER
+BOBCAT 58
+MANNY 
+HOUSE_CAT 7
+Susie
+TIGER 156
+Jet
+CHEETAH 120
+Mickey Mouse
+HOUSE_CAT 9
+Cuddly Kid
+BOBCAT 130

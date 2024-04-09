@@ -1,0 +1,7 @@
+CHECK j89k  9/10/2020  219.76  4105  Austin Energy
+DEPOSIT p8rQ  9/1/2020  549.00
+DEBIT 0ro3  9/4/2020  83.45  HEB
+CHECK 4k3m 12/19/2018 230.45 4187 Mastercard Bank America
+DEBIT 92gw 10/19/2020 450.00 Rent for October
+DEPOSIT wc93 9/18/2020 1200.00  Paycheck Bank America
+
